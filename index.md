@@ -35,7 +35,7 @@ and Jinggangshan, Jiangxi Province ([2017](http://www.physics.fudan.edu.cn/tps/p
 1. **WEN Jinsheng 温锦生** - Nanjing University 南京大学
 1. **WU Hao 吴昊** - Songshan Lake Materials Laboratory 松山湖材料实验室
 1. **YING Zujian 应祖建** - Lanzhou University 兰州大学
-1. **YOU Jianqiang 游建强** - Zhejiang University 浙大
+1. **YOU Jianqiang 游建强** - Zhejiang University 浙江大学
 1. **YU Weichao 余伟超** - Fudan University 复旦大学
 1. **YU Guoqiang 于国强** - Institute of Physics 物理所
 1. **YUAN Huaiyang 袁怀洋** - Utrecht Univeristy 荷兰乌德勒支大学
