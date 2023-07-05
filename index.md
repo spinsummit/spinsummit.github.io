@@ -1,8 +1,8 @@
 The 3rd International Spin Summit workshop is scheduled to take place in Dujiangyan, Chengdu from July 31 to August 3, 2023. This event marks the rejuvenation of the Spin Summit workshop following the pandemic.
 
-The Spin Summit workshop had been previously held in 
-Xinyi, Guizhou Province ([2018](http://spinsummit.fudan.edu.cn))
-and Jinggangshan, Jiangxi Province ([2017](http://www.physics.fudan.edu.cn/tps/people/jxiao/spinsummit2017/2017/)).
+The Spin Summit workshop had been previously held in
+- Xinyi, Guizhou Province ([2018](http://spinsummit.fudan.edu.cn))
+- Jinggangshan, Jiangxi Province ([2017](http://www.physics.fudan.edu.cn/tps/people/jxiao/spinsummit2017/2017/)).
 
 ## Organizing Committee
 
