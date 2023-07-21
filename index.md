@@ -1,5 +1,7 @@
 The 3rd International Spin Summit workshop is scheduled to take place in Dujiangyan, Chengdu from July 31 to August 3, 2023. This event marks the rejuvenation of the Spin Summit workshop following the pandemic.
 
+The primary goal of the Spin Summit workshop is to encourage productive and mutually advantageous interactions among participants, offering ample opportunities for both structured and informal discussions.
+
 The Spin Summit workshop had been previously held in
 - Xingyi, Guizhou Province 贵州兴义 ([2018](http://spinsummit.fudan.edu.cn))
 - Jinggangshan, Jiangxi Province 江西井冈山 ([2017](http://www.physics.fudan.edu.cn/tps/people/jxiao/spinsummit2017/2017/)).
@@ -49,8 +51,8 @@ The Spin Summit workshop had been previously held in
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |08:30-09:06|            | **YU Guoqian**   | **CHAI Guozhi**   | **Gerrit BAUER**   | **BAI Lihui**   |
 |09:06-09:42|            | **WANG Kaiyou**   | **QIN Huajun**   | **SONG Cheng**   | **GAO Weibo**   |
-|09:42-10:18|            | _Coffee break_     | _Coffee break_| _Coffee break_| _Coffee break_|
-|10:18-10:48|            | **CHEN Jianhao**   | **YUAN Huaiyang**   | **YOU Jianqiang**   | **WEN Jingsheng**   |
+|09:42-10:18|            | **CHEN Jianhao**   | **YUAN Huaiyang**   | **YOU Jianqiang**   | **WEN Jingsheng**   |
+|10:18-10:48|            | _Coffee break_     | _Coffee break_| _Coffee break_| _Coffee break_|
 |10:48-11:24|            | **LI Peng**   | **LIU Gang-Qin**   | **YING Zu-Jian**   | **RAO Jinwei**   |
 |11:24-12:00|            | **TANG Ping**   | **NAN Tianxiang**   | **QI Jingbo**   | **LAN Jin**   |
 |12:00-13:30|            | _Table Lunch_    | _Buffet Lunch_    | _Buffet Lunch_    | _Table Lunch_    |
@@ -58,7 +60,7 @@ The Spin Summit workshop had been previously held in
 |14:36-15:12|            | _Informal  Discussions_ |_Excursion_| **Poster Session**| **YU Weichao**   |
 |15:30-16:00|            | _Informal  Discussions_ |_Excursion_| **Poster Session** | *Closing* |
 |17:30-19:00| _Buffet Dinner_ | _Self-organized dinner_ | _Buffet Dinner_ | _Banquet_ | |
-|19:00-19:36| **WANG X. R**   | **TIAN Mingliang**   | **WANG Zhe** | _Dinner_ |            |
+|19:00-19:36| **WANG X. R**   | **TIAN Mingliang**   | **WANG Zhe** | _Banquet_ |            |
 |19:36-20:12| **WANG Hao**   | **YUAN Zhe**   | **ZHANG Jinxing** |            |            |
 
 ## Registration
