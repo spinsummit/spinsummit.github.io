@@ -58,7 +58,7 @@ The Spin Summit workshop had been previously held in
 |12:00-13:30|            | _Table Lunch_    | _Buffet Lunch_    | _Buffet Lunch_    | _Table Lunch_    |
 |14:00-14:36|            | _Informal <br>  Discussions_ |_Excursion_| **Poster <br> Session** | **LIN <br> Weiwei**  |
 |14:36-15:12|            | --- | --- | --- | **YU <br> Weichao**   |
-|15:30-16:00|            | --- |--- | --- | *Closing* |
+|15:30-16:00|            | --- |--- | --- | _Closing <br> Remark_ |
 |17:30-19:00| _Buffet Dinner_ |  | _Buffet Dinner_ | _Banquet_ | |
 |19:00-19:36| **WANG <br> X. R**   | **TIAN <br> Mingliang**   | **WANG <br> Zhe** | _Banquet_ |            |
 |19:36-20:12| **WANG <br> Hao**   | **YUAN <br> Zhe**   | **ZHANG <br> Jinxing** |            |            |
