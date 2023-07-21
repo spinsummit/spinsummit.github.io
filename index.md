@@ -46,7 +46,7 @@ The Spin Summit workshop had been previously held in
 1. **ZHANG Jinxing 张金星** - Beijing Normal University 北师大
 
 ## Program
-
+<small>
 |           |Jul 30 / Sun|Jul 31 / Mon|Aug 1 / Tue|Aug 2 / Wed|Aug 3 / Thu|  
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |08:30-09:06|            | **YU Guoqian**   | **CHAI Guozhi**   | **Gerrit BAUER**   | **BAI Lihui**   |
@@ -62,6 +62,7 @@ The Spin Summit workshop had been previously held in
 |17:30-19:00| _Buffet Dinner_ | _Self-organized dinner_ | _Buffet Dinner_ | _Banquet_ | |
 |19:00-19:36| **WANG X. R**   | **TIAN Mingliang**   | **WANG Zhe** | _Banquet_ |            |
 |19:36-20:12| **WANG Hao**   | **YUAN Zhe**   | **ZHANG Jinxing** |            |            |
+</small>
 
 ## Registration
 
