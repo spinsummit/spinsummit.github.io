@@ -46,24 +46,22 @@ The Spin Summit workshop had been previously held in
 1. **ZHANG Jinxing 张金星** - Beijing Normal University 北师大
 
 ## Program
-<small>
-|           |Jul 30 / Sun|Jul 31 / Mon|Aug 1 / Tue|Aug 2 / Wed|Aug 3 / Thu|  
-|           |Sunday|Monday|Tuesday|Wednesday|Thursday|  
+
+|           |July 30<br>Sunday|July 31<br>Monday|August 1<br>Tuesday|August 2<br>Wednesday|August 3<br>Thursday|  
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|08:30-09:06|            | **YU Guoqian**   | **CHAI Guozhi**   | **Gerrit BAUER**   | **BAI Lihui**   |
-|09:06-09:42|            | **WANG Kaiyou**   | **QIN Huajun**   | **SONG Cheng**   | **GAO Weibo**   |
-|09:42-10:18|            | **CHEN Jianhao**   | **YUAN Huaiyang**   | **YOU Jianqiang**   | **WEN Jingsheng**   |
+|08:30-09:06|            | **YU <br> Guoqian**   | **CHAI <br> Guozhi**   | **Gerrit <br> BAUER**   | **BAI <br> Lihui**   |
+|09:06-09:42|            | **WANG <br> Kaiyou**   | **QIN <br> Huajun**   | **SONG <br> Cheng**   | **GAO <br> Weibo**   |
+|09:42-10:18|            | **CHEN <br> Jianhao**   | **YUAN <br> Huaiyang**   | **YOU <br> Jianqiang**   | **WEN <br> Jingsheng**   |
 |10:18-10:48|            | _Coffee break_     | _Coffee break_| _Coffee break_| _Coffee break_|
-|10:48-11:24|            | **LI Peng**   | **LIU Gang-Qin**   | **YING Zu-Jian**   | **RAO Jinwei**   |
-|11:24-12:00|            | **TANG Ping**   | **NAN Tianxiang**   | **QI Jingbo**   | **LAN Jin**   |
+|10:48-11:24|            | **LI <br> Peng**   | **LIU <br> Gang-Qin**   | **YING <br> Zu-Jian**   | **RAO <br> Jinwei**   |
+|11:24-12:00|            | **TANG <br> Ping**   | **NAN <br> Tianxiang**   | **QI <br> Jingbo**   | **LAN <br> Jin**   |
 |12:00-13:30|            | _Table Lunch_    | _Buffet Lunch_    | _Buffet Lunch_    | _Table Lunch_    |
-|14:00-14:36|            | _Informal  Discussions_ |_Excursion_| **Poster Session** | **LIN Weiwei**  |
-|14:36-15:12|            | _Informal  Discussions_ |_Excursion_| **Poster Session**| **YU Weichao**   |
-|15:30-16:00|            | _Informal  Discussions_ |_Excursion_| **Poster Session** | *Closing* |
+|14:00-14:36|            | _Informal <br>  Discussions_ |_Excursion_| **Poster <br> Session** | **LIN <br> Weiwei**  |
+|14:36-15:12|            | --- | --- | --- | **YU <br> Weichao**   |
+|15:30-16:00|            | --- |--- | --- | *Closing* |
 |17:30-19:00| _Buffet Dinner_ | _Self-organized dinner_ | _Buffet Dinner_ | _Banquet_ | |
-|19:00-19:36| **WANG X. R**   | **TIAN Mingliang**   | **WANG Zhe** | _Banquet_ |            |
-|19:36-20:12| **WANG Hao**   | **YUAN Zhe**   | **ZHANG Jinxing** |            |            |
-</small>
+|19:00-19:36| **WANG <br> X. R**   | **TIAN <br> Mingliang**   | **WANG <br> Zhe** | _Banquet_ |            |
+|19:36-20:12| **WANG <br> Hao**   | **YUAN <br> Zhe**   | **ZHANG <br> Jinxing** |            |            |
 
 ## Registration
 
