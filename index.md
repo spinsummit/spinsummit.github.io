@@ -14,7 +14,7 @@ The Spin Summit workshop had been previously held in
 - XIAO Jiang 肖江 - Fudan University
 - XIA Ke 夏钶 - Southeast Unviersity
 
-## Confirmed Invited Speakers
+## Invited Speakers
 
 1. **BAI Lihui 柏利慧** - Shandong Univeristy 山东大学
 1. **Gerrit BAUER 包格瑞** - KITS (UCAS) / Tohoku Uni. 国科大 / 日本东北大学
@@ -23,8 +23,8 @@ The Spin Summit workshop had been previously held in
 1. **GAO Weibo 高炜博** - Nanyang Technological University 新加坡南洋理工大学
 1. **LI Peng 李鹏** - University of Science and Technology of China 中国科大
 1. **LAN Jin 兰金** - Tianjin University 天津大学
-1. **LIU Ganqin 刘刚钦** - Institute of Physics 物理所
 1. **LIN Weiwei 林维维** - Southeast University 东南大学
+1. **LIU Ganqin 刘刚钦** - Institute of Physics 中科院物理所
 1. **NAN Tianxiang 南天翔** - Tsinghua University 清华大学
 1. **QI Jingbo 齐静波** - UESTC 电子科大
 1. **QIN Huajun 秦华军** - Wuhan Univeristy 武汉大学
