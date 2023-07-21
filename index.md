@@ -32,6 +32,7 @@ The Spin Summit workshop had been previously held in
 1. **SONG Cheng 宋成** - Tsinghua University 清华大学
 1. **TANG Ping 唐萍** - Tohoku University 日本东北大学
 1. **TIAN Mingliang 田明亮** - Anhui University 安徽大学
+1. **WU Hao 吴昊** - Songshan Lake Materials Lab 松山湖材料实验室
 1. **WANG Xiangrong 王向荣** - HKUST 香港科大
 1. **WANG Zhe 王喆** - Xi'an Jiaotong Uni. 西安交通大学
 1. **WEN Jinsheng 温锦生** - Nanjing University 南京大学
@@ -60,7 +61,7 @@ The Spin Summit workshop had been previously held in
 |15:12-17:30|  _Registration <br> before dinner_           | " |" | _Informal <br>  Discussions_ | _Closing <br> Remark_ |
 |17:30-19:00| _Buffet Dinner_ | _Free_ | _Buffet Dinner_ | _Banquet_ | |
 |19:00-19:36| **WANG <br> X. R**   | **TIAN <br> Mingliang**   | **WANG <br> Zhe** | _Banquet_ |            |
-|19:36-20:12| **WANG <br> Hao**   | **YUAN <br> Zhe**   | **ZHANG <br> Jinxing** |            |            |
+|19:36-20:12| **WU <br> Hao**   | **YUAN <br> Zhe**   | **ZHANG <br> Jinxing** |            |            |
 
 ## Registration
 
