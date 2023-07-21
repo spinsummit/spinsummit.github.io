@@ -19,7 +19,6 @@ The Spin Summit workshop had been previously held in
 1. **BAI Lihui 柏利慧** - Shandong Univeristy 山东大学
 1. **Gerrit BAUER 包格瑞** - KITS (UCAS) / Tohoku Uni. 国科大 / 日本东北大学
 1. **CHAI Guozhi 柴国志** - Lanzhou University 兰州大学
-1. **CHANG Kai 常凯** - Institute of Semiconductor 半导体所
 1. **CHEN Jianhao 陈剑豪** - Peking University 北京大学
 1. **GAO Weibo 高炜博** - Nanyang Technological University 新加坡南洋理工大学
 1. **LI Peng 李鹏** - University of Science and Technology of China 中国科大
