@@ -1,4 +1,4 @@
-The 3rd International Spin Summit workshop is scheduled to take place in Dujiangyan, Chengdu from July 31 to August 3, 2023. This event marks the rejuvenation of the Spin Summit workshop following the pandemic.
+The 3rd Spin Summit workshop is scheduled to take place in Dujiangyan, Chengdu from July 31 to August 3, 2023. This event marks the rejuvenation of the Spin Summit workshop following the pandemic.
 
 The primary goal of the Spin Summit workshop is to encourage productive and mutually advantageous interactions among participants, offering ample opportunities for both structured and informal discussions.
 
