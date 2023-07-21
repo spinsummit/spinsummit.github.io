@@ -48,6 +48,7 @@ The Spin Summit workshop had been previously held in
 ## Program
 <small>
 |           |Jul 30 / Sun|Jul 31 / Mon|Aug 1 / Tue|Aug 2 / Wed|Aug 3 / Thu|  
+|           |Sunday|Monday|Tuesday|Wednesday|Thursday|  
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |08:30-09:06|            | **YU Guoqian**   | **CHAI Guozhi**   | **Gerrit BAUER**   | **BAI Lihui**   |
 |09:06-09:42|            | **WANG Kaiyou**   | **QIN Huajun**   | **SONG Cheng**   | **GAO Weibo**   |
