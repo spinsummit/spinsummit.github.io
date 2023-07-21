@@ -21,6 +21,7 @@ The Spin Summit workshop had been previously held in
 1. **CHEN Jianhao 陈剑豪** - Peking University 北京大学
 1. **GAO Weibo 高炜博** - Nanyang Technological University 新加坡南洋理工大学
 1. **LI Peng 李鹏** - University of Science and Technology of China 中国科大
+1. **LAN Jin 兰金** - Tianjin University 天津大学
 1. **LIU Ganqin 刘刚钦** - Institute of Physics 物理所
 1. **LIN Weiwei 林维维** - Southeast University 东南大学
 1. **NAN Tianxiang 南天翔** - Tsinghua University 清华大学
@@ -44,7 +45,21 @@ The Spin Summit workshop had been previously held in
 
 ## Program
 
-- TBA
+|           |Jul 30 / Sun|Jul 31 / Mon|Aug 1 / Tue|Aug 2 / Wed|Aug 3 / Thu|  
+|:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|08:30-09:06|            | **YU Guoqian**   | **CHAI Guozhi**   | **Gerrit BAUER**   | **BAI Lihui**   |
+|09:06-09:42|            | **WANG Kaiyou**   | **QIN Huajun**   | **SONG Cheng**   | **GAO Weibo**   |
+|09:42-10:18|            | _Coffee break_     | _Coffee break_| _Coffee break_| _Coffee break_|
+|10:18-10:48|            | **CHEN Jianhao**   | **YUAN Huaiyang**   | **YOU Jianqiang**   | **WEN Jingsheng**   |
+|10:48-11:24|            | **LI Peng**   | **LIU Gang-Qin**   | **YING Zu-Jian**   | **RAO Jinwei**   |
+|11:24-12:00|            | **TANG Ping**   | **NAN Tianxiang**   | **QI Jingbo**   | **LAN Jin**   |
+|12:00-13:30|            | _Table Lunch_    | _Buffet Lunch_    | _Buffet Lunch_    | _Table Lunch_    |
+|14:00-14:36|            | _Informal  Discussions_ |_Excursion_| **Poster Session** | **LIN Weiwei**  |
+|14:36-15:12|            | _Informal  Discussions_ |_Excursion_| **Poster Session**| **YU Weichao**   |
+|15:30-16:00|            | _Informal  Discussions_ |_Excursion_| **Poster Session** | *Closing* |
+|17:30-19:00| _Buffet Dinner_ | _Self-organized dinner_ | _Buffet Dinner_ | _Banquet_ | |
+|19:00-19:36| **WANG X. R**   | **TIAN Mingliang**   | **WANG Zhe** | _Dinner_ |            |
+|19:36-20:12| **WANG Hao**   | **YUAN Zhe**   | **ZHANG Jinxing** |            |            |
 
 ## Registration
 
