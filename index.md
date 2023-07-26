@@ -37,7 +37,6 @@ The Spin Summit workshop had been previously held in
 1. **WANG Zhe 王喆** - Xi'an Jiaotong Uni. 西安交通大学
 1. **WEN Jinsheng 温锦生** - Nanjing University 南京大学
 1. **WU Hao 吴昊** - Songshan Lake Materials Laboratory 松山湖材料实验室
-1. **YING Zujian 应祖建** - Lanzhou University 兰州大学
 1. **YOU Jianqiang 游建强** - Zhejiang University 浙江大学
 1. **YU Weichao 余伟超** - Fudan University 复旦大学
 1. **YU Guoqiang 于国强** - Institute of Physics 物理所
@@ -53,7 +52,7 @@ The Spin Summit workshop had been previously held in
 |09:06-09:42|            | **WANG <br> Kaiyou**   | **QIN <br> Huajun**   | **SONG <br> Cheng**   | **GAO <br> Weibo**   |
 |09:42-10:18|            | **CHEN <br> Jianhao**   | **YUAN <br> Huaiyang**   | **YOU <br> Jianqiang**   | **WEN <br> Jingsheng**   |
 |10:18-10:48|            | _Coffee break_     | _Coffee break_| _Coffee break_| _Coffee break_|
-|10:48-11:24|            | **LI <br> Peng**   | **LIU <br> Gang-Qin**   | **YING <br> Zu-Jian**   | **RAO <br> Jinwei**   |
+|10:48-11:24|            | **LI <br> Peng**   | **LIU <br> Gang-Qin**   | ---   | **RAO <br> Jinwei**   |
 |11:24-12:00|            | **TANG <br> Ping**   | **NAN <br> Tianxiang**   | **QI <br> Jingbo**   | **LAN <br> Jin**   |
 |12:00-13:30|            | _Table Lunch_    | _Buffet Lunch_    | _Buffet Lunch_    | _Table Lunch_    |
 |14:00-14:36|            | _Informal <br>  Discussions_ |_Excursion_| **Poster <br> Session** | **LIN <br> Weiwei**  |
