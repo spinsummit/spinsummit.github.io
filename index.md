@@ -6,7 +6,7 @@ The Spin Summit workshop had been previously held in
 - Xingyi, Guizhou Province 贵州兴义 ([2018](../2018/index.html))
 - Jinggangshan, Jiangxi Province 江西井冈山 ([2017](../2017/index.html)).
 
-## Organizing Committee
+# Organizing Committee
 
 - YAN Peng 严鹏 (Chair) - University of Electronic Science and Technology
 - WU Di 吴镝 (Co-Chair) - Nanjing University
@@ -14,7 +14,7 @@ The Spin Summit workshop had been previously held in
 - XIAO Jiang 肖江 - Fudan University
 - XIA Ke 夏钶 - Southeast Unviersity
 
-## Invited Speakers
+# Invited Speakers
 
 1. **BAI Lihui 柏利慧** - Shandong Univeristy 山东大学
 1. **Gerrit BAUER 包格瑞** - KITS (UCAS) / Tohoku Uni. 国科大 / 日本东北大学
@@ -44,7 +44,7 @@ The Spin Summit workshop had been previously held in
 1. **YUAN Zhe 袁喆** - Fudan University 复旦大学
 1. **ZHANG Jinxing 张金星** - Beijing Normal University 北师大
 
-## Program
+# Program
 
 |           |July 30<br>Sunday|July 31<br>Monday|August 1<br>Tuesday|August 2<br>Wednesday|August 3<br>Thursday|  
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -62,12 +62,12 @@ The Spin Summit workshop had been previously held in
 |19:00-19:36| **WANG <br> X. R**   | **TIAN <br> Mingliang**   | **WANG <br> Zhe** | _Banquet_ |            |
 |19:36-20:12| **WU <br> Hao**   | **YUAN <br> Zhe**   | **ZHANG <br> Jinxing** |            |            |
 
-## Registration
+# Registration
 
 - Registration fee for faculties: 1200 RMB
 - Registration fee for students and postdocs: 800 RMB
 
-## Venue & Hotel
+# Venue & Hotel
 
 - 都江堰上镜灵岩森林酒店 (四川省成都市都江堰市百花岭路32号) <br>
   The accomodation for all participants will be arranged by the workshop organizers. 
