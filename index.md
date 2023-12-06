@@ -3,7 +3,7 @@ The 3rd Spin Summit workshop is scheduled to take place in Dujiangyan, Chengdu f
 The primary goal of the Spin Summit workshop is to encourage productive and mutually advantageous interactions among participants, offering ample opportunities for both structured and informal discussions.
 
 The Spin Summit workshop had been previously held in
-- Xingyi, Guizhou Province 贵州兴义 ([2018](http://spinsummit.fudan.edu.cn))
+- Xingyi, Guizhou Province 贵州兴义 ([2018](../2018/index.html))
 - Jinggangshan, Jiangxi Province 江西井冈山 ([2017](../2017/index.html)).
 
 ## Organizing Committee
