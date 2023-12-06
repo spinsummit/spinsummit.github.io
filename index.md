@@ -4,7 +4,7 @@ The primary goal of the Spin Summit workshop is to encourage productive and mutu
 
 The Spin Summit workshop had been previously held in
 - Xingyi, Guizhou Province 贵州兴义 ([2018](http://spinsummit.fudan.edu.cn))
-- Jinggangshan, Jiangxi Province 江西井冈山 ([2017](http://www.physics.fudan.edu.cn/tps/people/jxiao/spinsummit2017/2017/)).
+- Jinggangshan, Jiangxi Province 江西井冈山 ([2017](../2017/index.html)).
 
 ## Organizing Committee
 
