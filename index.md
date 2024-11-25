@@ -15,9 +15,16 @@ The Spin Summit workshop had been previously held in
 - YU Haiming 于海明, Beihang University
 - XIAO Jiang 肖江 - Fudan University
 
-# Invited Speakers
+# Confirmed Invited Speakers
 
-TBA
+- Gerrit Buaer
+- Axel Hoffman
+- Akashdeep Kamra
+- Se Kwon Kim
+- Kyung-Jin Lee
+- Teruo Ono
+- Gen Tatara
+- Yaroslav Tserkovnyak
 
 # Program
 
