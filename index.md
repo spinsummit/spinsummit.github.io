@@ -1,4 +1,4 @@
-The 4th Spin Summit workshop is scheduled to take place in Guiyang, Guizhou Prov, China from August 4 to August 9, 2024. 
+The 4th Spin Summit workshop is scheduled to take place in Guiyang, Guizhou Prov, China from August 4 to August 9, 2025. 
 
 The primary goal of the Spin Summit workshop is to encourage productive and mutually advantageous interactions among participants, offering ample opportunities for both structured and informal discussions.
 
