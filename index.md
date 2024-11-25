@@ -25,8 +25,8 @@ TBA
 
 # Registration
 
-- Registration fee for faculties: 1200 RMB
-- Registration fee for students and postdocs: 800 RMB
+- Registration fee for faculties: ???? RMB
+- Registration fee for students and postdocs: ??? RMB
 
 # Venue & Hotel
 
