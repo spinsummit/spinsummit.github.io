@@ -37,5 +37,5 @@ TBA
 
 # Venue & Hotel
 
-- 都江堰上镜灵岩森林酒店 (四川省成都市都江堰市百花岭路32号) <br>
-  The accomodation for all participants will be arranged by the workshop organizers. 
+- XXX Hotel, Guiyang, Guizhou Province, China [(map)](xx) <br>
+  中国贵州省贵阳市 XXX 酒店 () [(map)](xx) <br>
