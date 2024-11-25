@@ -1,11 +1,8 @@
-The 4th Spin Summit workshop is scheduled to take place in Guiyang, Guizhou Prov, China from August 4 to August 9, 2025. 
+The 4th Spin Summit workshop is set to take place in Guiyang, Guizhou Province, China, from August 4 to August 9, 2025. 
 
-The primary goal of the Spin Summit workshop is to encourage productive and mutually advantageous interactions among participants, offering ample opportunities for both structured and informal discussions.
+This workshop will delve into both the fundamental and applied dimensions of spintronics, facilitating meaningful and beneficial interactions among participants. Attendees will have the opportunity to engage in a variety of discussions, encompassing both structured formats and informal exchanges, thereby fostering a collaborative atmosphere for knowledge sharing. 
 
-The Spin Summit workshop had been previously held in
-- Dujiangyan, Sichuang 四川都江堰 ([2023](../index_2023.html))
-- Xingyi, Guizhou Province 贵州兴义 ([2018](../2018/index.html))
-- Jinggangshan, Jiangxi Province 江西井冈山 ([2017](../2017/index.html)).
+Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, Sichuang 四川都江堰 ([2023](../index_2023.html)), Xingyi, Guizhou Province 贵州兴义 ([2018](../2018/index.html)), and Jinggangshan, Jiangxi Province 江西井冈山 ([2017](../2017/index.html)).
 
 # Organizing Committee
 
