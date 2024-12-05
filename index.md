@@ -25,14 +25,26 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 
 # Program
 
-TBA
+<details>
+  TBA
+</details>
 
 # Registration
 
-- Registration fee for faculties: ???? RMB
-- Registration fee for students and postdocs: ??? RMB
+| **Registration fee** | **Early bird** | **Regular** |
+| :---: | :---: | :---: |
+| **Faculties** | 2200 CNY | 2500 CNY |
+| **students and postdocs** | ? | 1800 CNY |
+
+The registration fee includes:
+- Participation in the workshop activities
+- Meals and coffee breaks
+
+All speakers will pay the conference fee and hotel by themselves. If the family members want to have meals, it is 260 CNY per day per person.
 
 # Venue & Hotel
 
+- The workshop will be held in XXX Hotel, where the participants will stay.
 - XXX Hotel, Guiyang, Guizhou Province, China [(map)](xx) <br>
   中国贵州省贵阳市 XXX 酒店 () [(map)](xx) <br>
+- Accommodation fee: 500 CNY
