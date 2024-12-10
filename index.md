@@ -46,5 +46,5 @@ All speakers will pay the conference fee and hotel by themselves. If the family 
 
 - The workshop will be held in XXX Hotel, where the participants will stay.
 - XXX Hotel, Guiyang, Guizhou Province, China [(map)](xx) <br>
-  中国贵州省贵阳市 XXX 酒店 () [(map)](xx) <br>
+  中国贵州省贵阳市十里河滩.孔学堂大成精舍酒店 () [(map)](xx) <br>
 - Accommodation fee: 500 CNY
