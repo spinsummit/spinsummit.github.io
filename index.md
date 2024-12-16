@@ -1,4 +1,4 @@
-The 4th Spin Summit workshop is set to take place in Guiyang, Guizhou Province, China, from August 4 to August 9, 2025. 
+The 4th Spin Summit workshop is set to take place in **Guiyang, Guizhou Province, China**, from **August 4 to August 9, 2025**. 
 
 This workshop will delve into both the fundamental and applied dimensions of spintronics, facilitating meaningful and beneficial interactions among participants. Attendees will have the opportunity to engage in a variety of discussions, encompassing both structured formats and informal exchanges, thereby fostering a collaborative atmosphere for knowledge sharing. 
 
@@ -44,7 +44,8 @@ All speakers will pay the conference and accommodation fees by themselves. If yo
 
 # Venue & Hotel
 
-- The workshop will be held in XXX Hotel, where the participants will stay.
-- XXX Hotel, Guiyang, Guizhou Province, China [(map)](xx) <br>
-  中国贵州省贵阳市十里河滩.孔学堂大成精舍酒店 () [(map)](xx) <br>
+- The workshop will be held in Dacheng Jinshe Hotel, Guiyang (贵阳市十里河滩.孔学堂大成精舍酒店), where the participants will stay.
+- Address: Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China [(Google maps)](https://maps.app.goo.gl/3pvcHKPwgRqdGVD37)
+
+  中国·贵州省·贵阳市·十里河滩孔学堂 [(高德地图)](https://surl.amap.com/2H4MBvE14dxC)
 - Accommodation fee: 500 CNY
