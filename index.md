@@ -32,9 +32,9 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 # Registration
 
 | **Registration fee** | **Regular** |
-| :---: | :---: |
-| **Faculties and postdocs** | 2500 CNY |
-| **Students** | 1800 CNY |
+| :---: | :------: |
+| **Faculties and postdocs** | &nbsp;&nbsp;&nbsp; 2500 CNY &nbsp;&nbsp;&nbsp; |
+| **Students** | &nbsp;&nbsp;&nbsp; 1800 CNY &nbsp;&nbsp;&nbsp; |
 
 The registration fee includes:
 - Participation in the workshop activities
