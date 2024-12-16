@@ -31,16 +31,16 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 
 # Registration
 
-| **Registration fee** | **Early bird** | **Regular** |
-| :---: | :---: | :---: |
-| **Faculties** | 2200 CNY | 2500 CNY |
-| **students and postdocs** | ? | 1800 CNY |
+| **Registration fee** | **Regular** |
+| :---: | :---: |
+| **Faculties and postdocs** | 2500 CNY |
+| **Students** | 1800 CNY |
 
 The registration fee includes:
 - Participation in the workshop activities
 - Meals and coffee breaks
 
-All speakers will pay the conference fee and hotel by themselves. If the family members want to have meals, it is 260 CNY per day per person.
+All speakers will pay the conference and accommodation fees by themselves. If your family members want to have meals, it is 260 CNY per day per person.
 
 # Venue & Hotel
 
