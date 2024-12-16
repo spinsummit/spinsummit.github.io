@@ -62,11 +62,6 @@ The Spin Summit workshop had been previously held in
 |19:00-19:36| **WANG <br> X. R**   | **TIAN <br> Mingliang**   | **WANG <br> Zhe** | _Banquet_ |            |
 |19:36-20:12| **WU <br> Hao**   | **YUAN <br> Zhe**   | **ZHANG <br> Jinxing** |            |            |
 
-# Registration
-
-- Registration fee for faculties: 1200 RMB
-- Registration fee for students and postdocs: 800 RMB
-
 # Venue & Hotel
 
 - 都江堰上镜灵岩森林酒店 (四川省成都市都江堰市百花岭路32号) <br>
