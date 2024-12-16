@@ -45,7 +45,6 @@ All speakers will pay the conference and accommodation fees by themselves. If yo
 # Venue & Hotel
 
 - The workshop will be held in Dacheng Jinshe Hotel, Guiyang (贵阳市十里河滩.孔学堂大成精舍酒店), where the participants will stay.
-- Address: Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China [(Google maps)](https://maps.app.goo.gl/3pvcHKPwgRqdGVD37)
-
+- Address: Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China [(Google maps)](https://maps.app.goo.gl/3pvcHKPwgRqdGVD37) <br>
   中国·贵州省·贵阳市·十里河滩孔学堂 [(高德地图)](https://surl.amap.com/2H4MBvE14dxC)
 - Accommodation fee: 500 CNY
