@@ -14,14 +14,20 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 
 # Confirmed Invited Speakers
 
-- Gerrit Buaer
-- Axel Hoffman
-- Akashdeep Kamra
-- Se Kwon Kim
-- Kyung-Jin Lee
-- Teruo Ono
-- Gen Tatara
-- Yaroslav Tserkovnyak
+- **Hiroto Adachi** - Okayama University, Japan
+- **Gerrit Bauer** - Tohuku University, Japan
+- **Axel Hoffman** - UIUC, United States
+- **Can-ming Hu** - University of Manitoba, Canada
+- **Akashdeep Kamra** - RPTU in Kaiserslautern, Germany
+- **Se Kwon Kim** - Korea Advanced Institute of Science and Technology, South Korea
+- **Kyung-Jin Lee** - Korea Advanced Institute of Science and Technology, South Korea
+- **Teruo Ono** - Institute for Chemical Research, Kyoto University, Japan
+- **Gen Tatara** - Riken, Japan
+- **Yaroslav Tserkovnyak** - UCLA, United States
+- **Xiangrong Wang** - HKUST, Hong Kong, China
+- **Yihong Wu** - National University of Singapore, Singapore
+- **Hyunsoo Yang** - National University of Singapore, Singapore
+- **Xixiang Zhang** - KAUST, Saudi
 
 # Program
 
