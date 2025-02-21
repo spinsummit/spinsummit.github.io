@@ -22,7 +22,7 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 - **Se Kwon Kim** - Korea Advanced Institute of Science and Technology, South Korea
 - **Kyung-Jin Lee** - Korea Advanced Institute of Science and Technology, South Korea
 - **Teruo Ono** - Institute for Chemical Research, Kyoto University, Japan
-- **Gen Tatara** - Riken, Japan
+- **Gen Tatara** - RIKEN, Japan
 - **Yaroslav Tserkovnyak** - UCLA, United States
 - **Xiangrong Wang** - HKUST, Hong Kong, China
 - **Yihong Wu** - National University of Singapore, Singapore
