@@ -15,11 +15,11 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 # Confirmed Invited Speakers
 
 - **Hiroto Adachi** - Okayama University, Japan
-- **Gerrit Bauer** - Tohuku University, Japan
+- **Gerrit Bauer** - Tohoku University, Japan
 - **Axel Hoffman** - UIUC, United States
 - **Can-ming Hu** - University of Manitoba, Canada
 - **Akashdeep Kamra** - RPTU in Kaiserslautern, Germany
-- **Se Kwon Kim** - Korea Advanced Institute of Science and Technology, South Korea
+- **Gyungchoon Go** - Korea Advanced Institute of Science and Technology, South Korea
 - **Kyung-Jin Lee** - Korea Advanced Institute of Science and Technology, South Korea
 - **Teruo Ono** - Institute for Chemical Research, Kyoto University, Japan
 - **Gen Tatara** - RIKEN, Japan
@@ -40,13 +40,13 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 | **Registration fee** | **Regular** |
 | :---: | :------: |
 | **Faculties and postdocs** | &nbsp;&nbsp;&nbsp; 2500 CNY &nbsp;&nbsp;&nbsp; |
-| **Students** | &nbsp;&nbsp;&nbsp; 1800 CNY &nbsp;&nbsp;&nbsp; |
+| **Students** | &nbsp;&nbsp;&nbsp; 2000 CNY &nbsp;&nbsp;&nbsp; |
 
 The registration fee includes:
 - Participation in the workshop activities
 - Meals and coffee breaks
 
-All speakers will pay the conference and accommodation fees by themselves. If your family members want to have meals, it is 260 CNY per day per person.
+All speakers will pay the conference and accommodation fees by themselves. <!-- If your family members want to have meals, it is 260 CNY per day per person. -->
 
 # Venue
 
@@ -55,4 +55,7 @@ The workshop will be held in Dacheng Jinshe Hotel, Guiyang (贵阳市十里河�
 [Venue and travel information](./venue-travel-page.html).
 - Address: Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China [(Google maps)](https://maps.app.goo.gl/3pvcHKPwgRqdGVD37) <br>
   中国·贵州省·贵阳市·十里河滩孔学堂 [(高德地图)](https://surl.amap.com/2H4MBvE14dxC)
-- Accommodation fee: 500 CNY
+<!-- - Accommodation fee: 500 CNY -->
+
+# Contact us
+Inquiry about registration and program schedule, please email to bumj@nju.edu.cn
