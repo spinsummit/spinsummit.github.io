@@ -16,7 +16,7 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 
 - **Hiroto Adachi** - Okayama University, Japan
 - **Gerrit Bauer** - Tohoku University, Japan
-- **Axel Hoffman** - UIUC, United States
+- **Axel Hoffmann** - UIUC, United States
 - **Can-ming Hu** - University of Manitoba, Canada
 - **Akashdeep Kamra** - RPTU in Kaiserslautern, Germany
 - **Gyungchoon Go** - Korea Advanced Institute of Science and Technology, South Korea
