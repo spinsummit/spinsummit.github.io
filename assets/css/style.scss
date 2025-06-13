@@ -107,20 +107,21 @@ header {
     border: none;
     color: #ffffff;
     padding: 12px 16px;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: normal;
     text-decoration: none;
     display: inline-block;
     transition: background-color 0.3s ease;
 
     &:hover {
-      background-color: rgba(0, 0, 0, 0.05);
-      color: #000;
+      color: #eeeeee;
+      border-bottom: 2px solid #eeeeee;
+      padding: 4px;
     }
   }
 
   .nav-link.active {
-    border-bottom: 2px solid #ff6600;
+    border-bottom: 2px solid #ffffff;
     padding: 4px;
     font-weight: bold;
   }
@@ -145,11 +146,32 @@ header {
 section {
   width:825px;
   padding: 30px 30px 30px 30px;
-  margin: 20px 0;
-  margin-top: 190px;
+  margin: 190px auto 20px auto;
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
   border: 1px solid #cbcbcb;
   box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
+}
+
+nav {
+  width: 240px;
+  left:50%;
+  margin-left:-800px;
+  
+  ul {
+    li {
+      line-height: 24px;
+    }
+  }
+}
+
+footer {
+  width:200px;
+  position: fixed;
+  left:50%;
+  margin-left:-800px;
+  bottom:20px;
+  text-align: right;
+  line-height: 16px;
 }
