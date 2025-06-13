@@ -29,12 +29,6 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 - **Hyunsoo Yang** - National University of Singapore, Singapore
 - **Xixiang Zhang** - KAUST, Saudi
 
-# Program
-
-<details>
-  TBA
-</details>
-
 # Registration
 
 | **Registration fee** | **Regular** |
@@ -46,16 +40,7 @@ The registration fee includes:
 - Participation in the workshop activities
 - Meals and coffee breaks
 
-All speakers will pay the conference and accommodation fees by themselves. <!-- If your family members want to have meals, it is 260 CNY per day per person. -->
+All speakers will pay the conference registration and accommodation fees by themselves. <!-- If your family members want to have meals, it is 260 CNY per day per person. -->
 
-# Venue
-
-The workshop will be held in Dacheng Jinshe Hotel, Guiyang (贵阳市十里河滩.孔学堂大成精舍酒店), where the participants will stay.
-
-[Venue and travel information](./venue-travel-page.html).
-- Address: Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China [(Google maps)](https://maps.app.goo.gl/3pvcHKPwgRqdGVD37) <br>
-  中国·贵州省·贵阳市·十里河滩孔学堂 [(高德地图)](https://surl.amap.com/2H4MBvE14dxC)
-<!-- - Accommodation fee: 500 CNY -->
-
-# Contact us
-Inquiry about registration and program schedule, please email to bumj@nju.edu.cn
+# Contact Us
+Inquiry about registration and program schedule, please email to <bumj@nju.edu.cn>.
