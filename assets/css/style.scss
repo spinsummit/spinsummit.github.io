@@ -45,7 +45,7 @@
 
 body {
   font-size: 16px;
-  line-height: 30px;
+  line-height: 28px;
   font-family: 'Noto Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#2b2b2b;
 }
@@ -82,6 +82,7 @@ code {
   font-size:14px;
 }
 
+@media (min-width: 1061px) {
 .wrapper {
   width:840px;
 }
@@ -148,7 +149,7 @@ header {
 }
 
 section {
-  width:825px;
+  width:750px;
   padding: 30px 30px 30px 30px;
   margin: 190px auto 20px auto;
   position:relative;
@@ -161,7 +162,7 @@ section {
 nav {
   width: 240px;
   left:50%;
-  margin-left:-840px;
+  margin-left:-675px;
   
   ul {
     li {
@@ -174,8 +175,9 @@ footer {
   width:200px;
   position: fixed;
   left:50%;
-  margin-left:-800px;
+  margin-left:-635px;
   bottom:20px;
   text-align: right;
   line-height: 16px;
+}
 }
