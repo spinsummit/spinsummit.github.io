@@ -82,6 +82,10 @@ code {
   font-size:14px;
 }
 
+.wrapper {
+  width:840px;
+}
+
 header {
   p {
     font-size: 17px;
@@ -116,13 +120,13 @@ header {
     &:hover {
       color: #eeeeee;
       border-bottom: 2px solid #eeeeee;
-      padding: 4px;
+      padding-bottom: 0px;
     }
   }
 
   .nav-link.active {
     border-bottom: 2px solid #ffffff;
-    padding: 4px;
+    padding-bottom: 0px;
     font-weight: bold;
   }
 
@@ -157,7 +161,7 @@ section {
 nav {
   width: 240px;
   left:50%;
-  margin-left:-800px;
+  margin-left:-840px;
   
   ul {
     li {
