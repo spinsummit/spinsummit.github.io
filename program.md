@@ -31,10 +31,10 @@
   <tr>
     <td class="tg-i9yt">Morning<br>8:30 - 12:00</td>
     <td class="tg-i9yt" rowspan="2">Arrival and Registration</td>
-    <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Group Photo and Coffee Break</span></td>
-    <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Coffee Break</span></td>
-    <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Coffee Break</span></td>
-    <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Coffee Break</span></td>
+    <td class="tg-i9yt"><span style="font-weight:bold">Morning Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Group Photo and Coffee Break</span></td>
+    <td class="tg-i9yt"><span style="font-weight:bold">Morning Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Coffee Break</span></td>
+    <td class="tg-i9yt"><span style="font-weight:bold">Morning Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Coffee Break</span></td>
+    <td class="tg-i9yt"><span style="font-weight:bold">Morning Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Coffee Break</span></td>
     <td class="tg-tm7p" rowspan="3">Departure</td>
   </tr>
   <tr>
@@ -47,9 +47,9 @@
   <tr>
     <td class="tg-i9yt">Evening<br>19:00 - 21:30</td>
     <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>3 Talks<br>(35 minutes including discussion)</td>
-    <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>3 Talks<br>(35 minutes including discussion)</td>
+    <td class="tg-i9yt"><span style="font-weight:bold">Evening Session</span><br>3 Talks<br>(35 minutes including discussion)</td>
     <td class="tg-i9yt"><span style="font-weight:bold">Poster Session</span></td>
-    <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>3 Talks<br>(35 minutes including discussion)</td>
+    <td class="tg-i9yt"><span style="font-weight:bold">Evening Session</span><br>3 Talks<br>(35 minutes including discussion)</td>
     <td class="tg-i9yt">-</td>
   </tr>
 </tbody></table>
