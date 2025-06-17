@@ -1,12 +1,14 @@
 The 4th Spin Summit workshop is set to take place in **Guiyang, Guizhou Province, China**, from **August 4 to August 9, 2025**. 
 
-Plan your trip to Guiyang, China.
+**Plan your trip to Guiyang, China.**
 
 # Venue
 
 The workshop will be held in Dacheng Jinshe Hotel, Guiyang (贵阳市十里河滩.孔学堂大成精舍酒店), where the participants will stay.
 
-## Address
+We will reserve rooms in advance for all confirmed participants.
+
+### Address
 
 Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China [(Google maps)](https://maps.app.goo.gl/3pvcHKPwgRqdGVD37) <br>
 中国·贵州省·贵阳市·十里河滩孔学堂 [(高德地图)](https://surl.amap.com/2H4MBvE14dxC)
@@ -17,20 +19,20 @@ Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China
 
 # Transport
 
-## Getting to Guiyang
+### Getting to Guiyang
 
-### By air
+**By air**
 
 - Guiyang Longdongbao International Airport (KWE/ZUGY) - 22 kilometers from the venue
 
-### By train
+**By train**
 
 - Guiyang Station - 14 kilometers from the venue <br>
 - Guiyang North Station - 22 kilometers from the venue
 
-## Getting around Guiyang
+### Getting around Guiyang
 
-### By underground
+**By underground**
 - Nearest metro station: Confucius Academy Station (Line 3) - 1.7 kilometers from the venue
 
 # Weather
