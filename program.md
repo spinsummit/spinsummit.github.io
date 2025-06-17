@@ -1,6 +1,8 @@
-# Schedule of the Spin Summit workshop
+The 4th Spin Summit workshop is set to take place in **Guiyang, Guizhou Province, China**, from **August 4 to August 9, 2025**.
 
----
+Detailed workshop program: Pending Release
+
+# Schedule of the Spin Summit workshop
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;margin:0px auto;}
