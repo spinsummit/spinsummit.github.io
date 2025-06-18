@@ -16,20 +16,24 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 
 - **Hiroto Adachi** - Okayama University, Japan
 - **Gerrit Bauer** - Tohoku University, Japan
-- **Axel Hoffmann** - UIUC, United States
+- **Gyungchoon Go** - Korea Advanced Institute of Science and Technology, Korea
+- **Axel Hoffmann** - University of Illinois Urbana-Champaign, United States
 - **Can-ming Hu** - University of Manitoba, Canada
 - **Akashdeep Kamra** - RPTU in Kaiserslautern, Germany
-- **Gyungchoon Go** - Korea Advanced Institute of Science and Technology, South Korea
-- **Kyung-Jin Lee** - Korea Advanced Institute of Science and Technology, South Korea
+- **Geun-Hee Lee** - Korea Advanced Institute of Science and Technology, Korea
 - **Teruo Ono** - Institute for Chemical Research, Kyoto University, Japan
+- **Ping Tang** - Tohoku University, Japan
 - **Gen Tatara** - RIKEN, Japan
-- **Yaroslav Tserkovnyak** - UCLA, United States
-- **Xiangrong Wang** - HKUST, Hong Kong, China
+- **Yaroslav Tserkovnyak** - University of California, Los Angeles, United States
+- **Xiangrong Wang** - The Hong Kong University of Science and Technology, Hong Kong, China
 - **Yihong Wu** - National University of Singapore, Singapore
 - **Hyunsoo Yang** - National University of Singapore, Singapore
-- **Xixiang Zhang** - KAUST, Saudi
+- **Xixiang Zhang** - King Abdullah University of Science and Technology, Saudi
+- **Ji Zou** - University of Basel, Switzerland
 
 # Registration
+
+Please fill the [form](https://table.nju.edu.cn/dtable/forms/97e0163d-7a28-4907-a291-fe5c63a3c677/) to register.
 
 | **Registration fee** | **Regular** |
 | :---: | :------: |
