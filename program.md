@@ -31,7 +31,7 @@ Detailed workshop program: Pending Release
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-i9yt">Morning<br>8:30 - 12:00</td>
+    <td class="tg-i9yt">Morning<br>8:30<br>-<br>12:00</td>
     <td class="tg-i9yt" rowspan="2">Arrival and Registration</td>
     <td class="tg-i9yt"><span style="font-weight:bold">Morning Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Group Photo and Coffee Break</span></td>
     <td class="tg-i9yt"><span style="font-weight:bold">Morning Session</span><br>5 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Coffee Break</span></td>
@@ -40,14 +40,14 @@ Detailed workshop program: Pending Release
     <td class="tg-tm7p" rowspan="3">Departure</td>
   </tr>
   <tr>
-    <td class="tg-dhg0">Afternoon<br>13:30 - 17:30</td>
+    <td class="tg-dhg0">Afternoon<br>13:30<br>-<br>17:30</td>
     <td class="tg-dhg0"><span style="font-weight:bold">Afternoon Discussion</span></td>
     <td class="tg-dhg0"><span style="font-weight:bold">Afternoon Discussion</span></td>
     <td class="tg-dhg0"><span style="font-weight:bold">Poster Session</span></td>
     <td class="tg-dhg0"><span style="font-weight:bold">Afternoon Session</span><br>2 Talks<br>(35 minutes including discussion)<br><span style="font-weight:bold">Closing Remark</span></td>
   </tr>
   <tr>
-    <td class="tg-i9yt">Evening<br>19:00 - 21:30</td>
+    <td class="tg-i9yt">Evening<br>19:00<br>-<br>21:30</td>
     <td class="tg-i9yt"><span style="font-weight:bold">Evening Opening Session</span><br>3 Talks<br>(35 minutes including discussion)</td>
     <td class="tg-i9yt"><span style="font-weight:bold">Evening Session</span><br>3 Talks<br>(35 minutes including discussion)</td>
     <td class="tg-i9yt"><span style="font-weight:bold">Poster Session</span></td>
