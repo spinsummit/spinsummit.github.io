@@ -9,7 +9,7 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 - WU Di 吴镝 (Chair) - Nanjing University
 - YU Tao 于涛 (Co-Chair) - Huazhong University of Science and Technology 
 - YAN Peng 严鹏 - University of Electronic Science and Technology
-- YU Haiming 于海明, Beihang University
+- YU Haiming 于海明 - Beihang University
 - XIAO Jiang 肖江 - Fudan University
 
 # Confirmed Invited Speakers
@@ -23,13 +23,24 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 - **Geun-Hee Lee** - Korea Advanced Institute of Science and Technology, Korea
 - **Teruo Ono** - Institute for Chemical Research, Kyoto University, Japan
 - **Ping Tang** - Tohoku University, Japan
-- **Gen Tatara** - RIKEN, Japan
 - **Yaroslav Tserkovnyak** - University of California, Los Angeles, United States
 - **Xiangrong Wang** - The Hong Kong University of Science and Technology, Hong Kong, China
 - **Yihong Wu** - National University of Singapore, Singapore
 - **Hyunsoo Yang** - National University of Singapore, Singapore
 - **Xixiang Zhang** - King Abdullah University of Science and Technology, Saudi
 - **Ji Zou** - University of Basel, Switzerland
+- **Enke Liu** - Insititude of Physics, Chinese Academy of Sciences, China
+- **Yizhou Liu** - Anhui University, China
+- **Bingfeng Miao** - Nanjing University, China
+- **Xuepeng Qiu** - Tongji University, China
+- **Dingfu Shao** - Hefei Institutes of Physical Science, Chinese Academy of Sciences, China
+- **Jian Shen** - Fudan University, China
+- **Ka Shen** - Beijing Normal University, China
+- **Ke Xia** - Southeast University, China
+- **Hongxin Yang** - Zhejiang University, China
+- **Jianqiang You** - Zhejiang University, China
+- **Guoqiang Yu** - Institute of Physics, Chinese Academy of Science, China
+- **Shilei Zhang** - ShanghaiTech University, China
 
 # Registration
 
