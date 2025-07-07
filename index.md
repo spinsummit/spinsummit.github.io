@@ -29,6 +29,8 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 - **Hyunsoo Yang** - National University of Singapore, Singapore
 - **Xixiang Zhang** - King Abdullah University of Science and Technology, Saudi
 - **Ji Zou** - University of Basel, Switzerland
+- **Jianhao Chen** - Peking University, China
+- **Junxue Li** - Southern University of Science and Technology, China
 - **Enke Liu** - Insititude of Physics, Chinese Academy of Sciences, China
 - **Yizhou Liu** - Anhui University, China
 - **Bingfeng Miao** - Nanjing University, China
@@ -36,6 +38,7 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
 - **Dingfu Shao** - Hefei Institutes of Physical Science, Chinese Academy of Sciences, China
 - **Jian Shen** - Fudan University, China
 - **Ka Shen** - Beijing Normal University, China
+- **Qi Wang** - Huazhong University of Science and Technology, China
 - **Ke Xia** - Southeast University, China
 - **Hongxin Yang** - Zhejiang University, China
 - **Jianqiang You** - Zhejiang University, China
