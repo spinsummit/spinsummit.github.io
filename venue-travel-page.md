@@ -4,7 +4,7 @@ The 4th Spin Summit workshop is set to take place in **Guiyang, Guizhou Province
 
 # Venue
 
-The workshop will be held in **Dacheng Jinshe Hotel, Guiyang (贵阳市十里河滩.孔学堂大成精舍酒店)**, where the participants will stay. We will reserve rooms in advance for all confirmed participants.
+The workshop will be held in **Dacheng Jinshe Hotel, Guiyang (贵阳市十里河滩.孔学堂大成精舍酒店)**, where the participants will stay. We will reserve rooms in advance for all confirmed participants in this hotel.
 
 ### Address
 
