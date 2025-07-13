@@ -15,6 +15,9 @@ Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China
 
 500 CNY -->
 
+![酒店外景](assets/images/Fig1.jpg)
+<!-- ![酒店房间](assets/images/Fig4.jpg) -->
+
 # Transport
 
 ### Getting to Guiyang
