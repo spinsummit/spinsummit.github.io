@@ -6,17 +6,23 @@ The 4th Spin Summit workshop is set to take place in **Guiyang, Guizhou Province
 
 The workshop will be held in **Dacheng Jinshe Hotel, Guiyang (贵阳市十里河滩.孔学堂大成精舍酒店)**, where the participants will stay. We will reserve rooms in advance for all confirmed participants in this hotel.
 
+![酒店外景](assets/images/Fig1.jpg)
+<!-- ![酒店房间](assets/images/Fig4.jpg) -->
+
 ### Address
 
 Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China [(Google maps)](https://maps.app.goo.gl/3pvcHKPwgRqdGVD37) <br>
 中国·贵州省·贵阳市·十里河滩孔学堂 [(高德地图)](https://surl.amap.com/2H4MBvE14dxC)
 
-<!-- ## Accommodation fee
+### Accommodation fee
 
-500 CNY -->
+|                   **Room**                  |                       **Price**                       |
+|:-------------------------------------------:|:-----------------------------------------------------:|
+|       Lyushe Twin Room (2 single beds)      | &nbsp;&nbsp;&nbsp; 450 CNY / night &nbsp;&nbsp;&nbsp; |
+| Shangshe Double Bed Room (1 queen size bed) | &nbsp;&nbsp;&nbsp; 480 CNY / night &nbsp;&nbsp;&nbsp; |
+|      Shangshe Twin Room (2 single beds)     | &nbsp;&nbsp;&nbsp; 550 CNY / night &nbsp;&nbsp;&nbsp; |
 
-![酒店外景](assets/images/Fig1.jpg)
-<!-- ![酒店房间](assets/images/Fig4.jpg) -->
+The price includes 2 breakfasts.
 
 # Transport
 
