@@ -2,9 +2,9 @@ The 4th Spin Summit workshop is set to take place in **Guiyang, Guizhou Province
 
 # Detailed workshop program
 
-<ul>
-  <li><a href="{{ Spin Summit 2025 Program.pdf }}" class="button">DOWNLOAD</a></li>
-</ul>
+<a href="Spin Summit 2025 Program.pdf">
+  <button type="button">DOWNLOAD</button>
+</a>
 
 # Schedule of the Spin Summit workshop
 
