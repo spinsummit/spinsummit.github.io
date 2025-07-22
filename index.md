@@ -50,7 +50,6 @@ Previous iterations of the Spin Summit workshop have taken place in Dujiangyan, 
   "Compensated ferrimagnets for emerging spintronics"
 - **Junxue Li** - Southern University of Science and Technology, China<br>
   "Experimental investigation of magnon spin relaxation and magnon-polaron in uniaxial antiferromagnetic insulators"
-- **Enke Liu** - Insititude of Physics, Chinese Academy of Sciences, China<br>
 - **Yizhou Liu** - Anhui University, China<br>
   "Construction of Single Hopfions and Hopfion Crystals"
 - **Bingfeng Miao** - Nanjing University, China<br>
