@@ -19,7 +19,7 @@ Shili Hetan, Confucius Academy, Huaxi District, Guiyang, Guizhou Province, China
 |                   **Room**                  |                       **Price**                       |
 |:-------------------------------------------:|:-----------------------------------------------------:|
 |       Lyushe Twin Room (2 single beds)      | &nbsp;&nbsp;&nbsp; 450 CNY / night &nbsp;&nbsp;&nbsp; |
-| Shangshe Double Bed Room (1 queen size bed) | &nbsp;&nbsp;&nbsp; 480 CNY / night &nbsp;&nbsp;&nbsp; |
+|   Shangshe Double Bed Room (1 queen bed)    | &nbsp;&nbsp;&nbsp; 480 CNY / night &nbsp;&nbsp;&nbsp; |
 |      Shangshe Twin Room (2 single beds)     | &nbsp;&nbsp;&nbsp; 550 CNY / night &nbsp;&nbsp;&nbsp; |
 
 The price includes 2 breakfasts.
