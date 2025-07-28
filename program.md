@@ -3,19 +3,19 @@ The 4th Spin Summit workshop is set to take place in **Guiyang, Guizhou Province
 # Detailed workshop program
 <style>
   .my-button {
-    background-color: #4269BD;
+    background-color: #385AA3;
     color: white;
-    padding: 10px 20px;
+    padding: 10px 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font: "Noto Sans"
-    font-size: 16px;
+    font-family: "Noto Sans", sans-serif
+    font-size: 18px;
     transition: background-color 0.3s ease;
   }
 
   .my-button:hover {
-    background-color: #385AA3;
+    background-color: #325090;
   }
 </style>
 
